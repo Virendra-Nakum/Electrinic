@@ -27,9 +27,9 @@ The **E-Library Data Insights Dashboard** is an interactive command-line tool bu
 ```text
 Dataset/
 │
-├── main.py                              # Main Python application (OOP & Menu Dashboard)
-├── library_borrowing_transactions.csv   # Sample dataset (5,000 borrowing records)
-└── README.md                            # Project documentation
+├── library_dashboard.py                              
+├── library_transactions.csv   
+└── README.md                            
 ```
 
 ### Dataset Schema (`library_borrowing_transactions.csv`)
