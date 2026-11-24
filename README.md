@@ -28,7 +28,8 @@ The **E-Library Data Insights Dashboard** is an interactive command-line tool bu
 Dataset/
 │
 ├── library_dashboard.py                              
-├── library_transactions.csv   
+├── issues.csv   
+├── issues_records.csv   
 └── README.md                            
 ```
 
